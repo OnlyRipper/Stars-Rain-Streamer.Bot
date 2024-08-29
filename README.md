@@ -16,7 +16,7 @@ locate and add the intex.html file and add it, set the size to 1920x1080.
 ( https://extensions.streamer.bot/docs?topic=49 ) 　　　 　　
 
 🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.
-Copy my text in Streamer.bot: [Copy ME.txt](https://github.com/user-attachments/files/16791405/Copy.ME.txt)
+Copy my text in Streamer.bot: [Copy ME.txt](https://github.com/user-attachments/files/16791861/Copy.ME.txt)
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours.
 
